@@ -5,7 +5,8 @@ int main()
 	char c;
 	int i;
 	float f;
-
+	double d;
+	
 	/* input */
 	printf("Type a character: ");
 	scanf("%c",&c);
@@ -14,7 +15,6 @@ int main()
 	printf("Type a small value: ");
 	scanf("%f",&f);
 	printf("Type a huge value: ");
-	double d;
 	scanf("%lg",&d);
 
 	/* output */

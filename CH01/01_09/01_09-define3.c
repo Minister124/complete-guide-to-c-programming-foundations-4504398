@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define charout(a) putc(a,stdout)
+#define charout(a) putc(a, stdout)
 
 int main()
 {
